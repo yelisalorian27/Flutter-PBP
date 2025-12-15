@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171747062234",
+    "project_id": "flutterpbp",
+    "storage_bucket": "flutterpbp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171747062234:android:382164a5d977fa26e9d0e3",
+        "android_client_info": {
+          "package_name": "com.example.pemesanan_makanan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxAz38_TWgH4WGA98yYoO2GGkeA9J1yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
